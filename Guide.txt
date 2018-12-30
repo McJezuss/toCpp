@@ -1,0 +1,26 @@
+How to use me:
+
+In terminal:
+1. Run "make"
+2. Run "./toCpp filePath"
+
+PS. Non-default constructors do not convert correctly and overload as well as const hasn't been added yet
+
+Important bugs to stay away from (I promise to fix them soon):
+
+1. Make run with filename doesn't work
+2. Running ./toCpp with no file results in a crash
+3. Custom constructors do not convert correctly. 
+
+@TODO:
+
+1. Add overload functionality
+2. Add custom constructor functionality
+3. Add const functionality
+
+
+
+
+
+==============================================================================
+ If you come across any other bugs or perhaps want to help me fix some bugs (i.e. maybe you have the fix for a certain bug) you are welcome to email me the solution and I will update it ASAP : tklaasee@gmail.com
